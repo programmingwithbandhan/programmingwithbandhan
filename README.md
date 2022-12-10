@@ -30,7 +30,7 @@
 <a href="https://codesandbox.com/programmingwithbandhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="programmingwithbandhan" height="30" width="40" /></a>
 <a href="https://fb.com/bandhanpokhrel01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bandhanpokhrel01" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_bandhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_bandhan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@itzbandhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@itzbandhan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@programmingwithbandhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@itzbandhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
